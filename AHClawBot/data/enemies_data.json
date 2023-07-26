@@ -1,0 +1,53 @@
+{
+	"Rat": [
+		"The rat is the first of several \"beasties\" that Claw meets during his adventures. Although the rat has few hit points, he does considerable damage and is high on the \"annoyance\" meter.",
+		"The rat can be placed in small areas, between ledges, etc.",
+		"The Punk-Rat (at level 2) controls cannons. Killing this rat will stop the cannon from firing. The rat stands on top of the cannon, then lights the cannon w/a punk."
+	],
+	"Soldier": [
+		"This Soldier is a \"human\" style enemy in level 1. The Soldier has fewer hit points than the Officer, and isn’t as smart. However, the Soldier does have a rifle attack (both high and low), which should prove quite difficult for Claw.",
+		"The Level 2 Soldier is based on Level 1 Soldier, but is painted differently and is more difficult."
+	],
+	"Officer": [
+		"The officer is the highest ranking enemy in level 1. The officer is smarter than the soldier, but lacks a projectile attack. The officer will actively approach Claw if activated. The Officer also avoids Claw's attacks by jumping backwards.",
+		"The Level 2 Officer is a repainted and more difficult version of the level 1 Officer. These officers are the highest ranking enemy in level 2, except for Le Rauxe. Note that this officer has a yellow plume and black sash, which are different than the level 1 officer."
+	],
+	
+	"Robber Thief": [
+		"The RobberThief is a sneaky enemy, firing bolts from his crossbow. The Robberthief can fire at mid-level and from a ducking position.",
+		"The Robber Thief is a projectile-only enemy, which means that he’s less effective at close quarters."
+	],
+	"Cutthroat": [
+		"The Cutthroat has 2 attacks: a knife throw and a knife stab. The throw comes at 2 levels, high and low. The stab is a single attack of 2 knife stabs at 1 level.",
+		"The Cutthroat is the most difficult non-boss enemy that Claw has faced up to this point."
+	],
+	
+	"Seagull": [ "The seagull will attack claw from the air (dive bomb attack)." ],
+	"Town Guard": [
+		"The Town Guards defend the Town. They act in an orderly manner, attacking in numbers.",
+		"Town Guard #1 is the lesser of the two town guards. These town guards can block Claw's sword attacks 25% of the time.",
+		"Town Guard #2 is the greater of the two town guards. These town guards can block Claw's sword attacks 75% of the time."
+	],
+	
+	"Hermit Crab": [
+		"The Hermit Crab can attack Claw with his claws, or he can throw a projectile at Claw. The Hermit Crab can only be killed: 1) when he's out of his shell (by pistol, sword or magic attack), or 2) if he's picked up and thrown by Claw, or 3) he's knocked off a platform by Claw.",
+		"When the Hermit Crab is in his shell, Claw can \"bump\" him around."
+	],
+	"Bear Sailor": [ "The Bear Sailor is part of Red Tail's \"men\". The Bear Sailor has 2 attacks: a paw \"swat\" and a bear hug." ],
+	"Red Tail Pirate": [ "This is the first of Red Tail's men. He has a sword attack and attacks quickly." ],
+	
+	"Peg-Leg Pirate": [ "Peg-leg pirate, one of the enemies used throughout level 9. The peg leg has a double pistol attack." ],
+	"Crazy Hook Pirate": [ "The crazy hook pirate has a hook attack. The hook pirate is fairly quick and has a jump." ],
+	
+	"MerCat": [
+		"The MerCat w/Trident has 2 attacks: he can stab with his trident, or he can do a \"magic\" trident attack (a projectile comes out of the trident). The animators can use the same animation for the stab and the projectile. The mercat can \"swim\", i.e., he can use his tail to support himself while in the water. The mercat can also \"walk\" on land by using his tail to slide around. Being able to exist in both water and land makes this enemy very flexible and dangerous."
+	],
+	"Siren": [
+		"The Cat Mermaid (Siren) makes a siren call that acts as a projectile. If Claw gets hit by this attack (a moving \"cone\" of sound), it puts Claw under a spell. While under the spell, Claw can't move. This attack won't cause Claw any damage, but it will place him in a very vulnerable position to get hit by other enemies. She also has lower health than other enemies."
+	],
+	"Fish": [ "These fish jump out of the water and attack Claw." ],
+	
+	"Chameleon": [ "The chameleon will fade in and out of the background, making him a very difficult enemy to kill." ],
+	
+	"Tiger Guard": [ "The Tiger Guard is very difficult and fast - the most challenging lower level enemy faced to this point" ]
+}
