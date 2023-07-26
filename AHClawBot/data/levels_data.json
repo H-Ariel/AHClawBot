@@ -1,85 +1,85 @@
 {
 	"1": [
-		"Level 1 - La Roca",
+		"*Level 1 - La Roca*",
 		"This is the first level of Claw. Claw is imprisoned in the dungeon of \"La Roca\" after his ship is scuttled during battle. Claw breaks out of his cell and must fight his way through this level to reach the surface of the prison.",
 		"During this level, Claw will fight Cocker Spaniard Soldiers, Officers and Bomb-Throwing Rats.",
 		"At the end of Level 1, Claw receives the first piece of the treasure map."
 	],
 	"2": [
-		"Level 2 - The Battlements",
+		"*Level 2 - The Battlements*",
 		"Claw continues his battle to reach the outside of the prison fortress. Here Claw fights his way through the platforms and guard towers contained in the battlements part of the prison.",
 		"This level contains completely new tiles, and is outside. It will show off the parallaxing in the engine, showing sky and clouds in the background when Claw reaches the top of the fortress.",
 		"During the level, Claw will fight repainted and more difficult versions of the Cocker Spaniard Soldiers and Officers. Claw will also face Rats firing cannons, as well as tower cannons contained in the guard towers throughout the level.",
 		"At the end of Level 2, Claw must defeat Captain Spot Le Rauxe, commander of the prison. Le Rauxe is the boss for Level 2. Once Le Rauxe is defeated, Claw receives the 1st gem for the amulet of nine lives."
 	],
 	"3": [
-		"Level 3 - The Footpath",
+		"*Level 3 - The Footpath*",
 		"Level 3 is the first part of the forest. Level 3 contains completely new tiles, platforms, etc.",
 		"During this level, Claw must fight Robber Thieves, Cutthroats, and Bomb-throwing rats.",
 		"At the end of Level 3, Claw receives the second piece of the map."
 	],
 	"4": [
-		"Level 4 - The Dark Woods",
+		"*Level 4 - The Dark Woods*",
 		"Level 4 is the 2nd half of the forest. Here Claw explores the deepest regions of the forest. Level 4 contains completely new tiles, platforms, etc.",
 		"During this level, Claw must fight repainted and more difficult versions of the Robber Thieves, Cutthroats and Rats.",
 		"At the end of Level 4, Claw must defeat Katherine, the Leader of the Thieves. Katherine is the boss for level 4. Once Claw defeats Katherine, he receives the 2nd gem for the amulet of nine lives."
 	],
 	"5": [
-		"Level 5 - The Township",
+		"*Level 5 - The Township*",
 		"Level 5 is the first part of El Puerto del Lobo. It contains buildings, farms, houses, etc. Level 5 contains completely new tiles, platforms, etc.",
 		"During this level, Claw must fight Town Guards (in 2 different forms), and ward off flying seagulls.",
 		"At the end of level 5, Claw receives the 3rd piece of the treasure map. As soon as Claw walks over the piece of the map, level 5 ends."
 	],
 	"6": [
-		"Level 6 - El Puerto del Lobo",
+		"*Level 6 - El Puerto del Lobo*",
 		"Level 6 is an extension of level 5, but uses completely new tiles, platforms, etc.",
 		"During level 6, Claw must fight repainted and more difficult versions of the 2 Town Guards and the Seagulls.",
 		"At the end of level 6, Claw must defeat Magistrate Wolvington, the Captain of the Guard. Once Claw defeats Wolvington, he receives the 3rd gem for the amulet."
 	],
 	"7": [
-		"Level 7 - The Docks",
+		"*Level 7 - The Docks*",
 		"Level 7 is the first level of the shipyards. The docks are the introduction to the shipyards, and Claw must jump from dock to dock to progress through the level. Level 7 uses completely new tiles, platforms, etc.",
 		"During this level, Claw must fight Bear Sailors, Red Tail's Men, seagulls, and Hermit Crabs.",
-		" At the end of level 7, Claw receives the 4th piece of the treasure map."
+		"At the end of level 7, Claw receives the 4th piece of the treasure map."
 	],
 	"8": [
-		"Level 8 - The Shipyards",
+		"*Level 8 - The Shipyards*",
 		"Level 8 is where Claw must fight pirates in and around and on moored pirate ships. This level uses completely new tiles, platforms, etc.",
 		"During this level, Claw must fight repainted and more difficult versions of the Bear Sailors, Red Tail's Pirate, and Hermit Crabs (the crabs will not be repainted).",
 		"At the end of level 8, Claw must defeat Mr. Gabriel, Red Tail's First Officer. Once Mr. Gabriel has been defeated, Claw receives the 4th gem for the amulet of nine lives."
 	],
 	"9": [
-		"Level 9 - Pirate's Cove",
+		"*Level 9 - Pirate's Cove*",
 		"Level 9 is the first level of Pirate's Cove. Level 9 will have completely new tiles, platforms, objects, etc.",
-		"During this level, Claw must fight the Peg-Leg Pirates, new Crazy Hook Pirates, and a more difficult version of the Seagull (last seen in levels 5 & 6).",
+		"During this level, Claw must fight the Peg-Leg Pirates, new Crazy Hook Pirates, and a more difficult version of the Seagull.",
 		"At the end of level 9, Claw receives the 5th and 6th pieces of the treasure map."
 	],
 	"10": [
-		"Level 10 - The Cliffs",
+		"*Level 10 - The Cliffs*",
 		"Level 10 is the 2nd part of Pirate's Cove. Level 10 will feature some new structures added to the level 9 tile set, and will be tinted differently, to make it appear slightly different than level 9. It will also contain some new platforms and objects.",
-		"During this level, Claw must fight repainted and more difficult versions of the Peg Leg Pirates, Crazy Hook Pirates, and Seagulls (the seagull will not be repainted).",
+		"During this level, Claw must fight repainted and more difficult versions of the Peg Leg Pirates, Crazy Hook Pirates, and Seagulls.",
 		"At the end of level 10, Claw must defeat Marrow - the Leader of Pirate's Cove. Once the leader has been defeated, Claw receives the 5th gem."
 	],
 	"11": [
-		"Level 11 - The Caverns",
+		"*Level 11 - The Caverns*",
 		"Level 11 is the first part of the Undersea Caves. The Caverns is the entrance way to Tiger Island. Level 11 features completely new tiles, platforms, objects, etc.",
 		"During this level, Claw must fight MerCats w/Tridents, Mercat Sirens, and flesh-eating fish.",
 		"At the end of level 11, Claw receives the 7th and 8th pieces of the treasure map."
 	],
 	"12": [
-		"Level 12 The Undersea Caves",
+		"*Level 12 - The Undersea Caves*",
 		"Level 12 is the second part of the Undersea Caves. Level 12 will feature some new structures added to the level 11 tile set, and will be tinted differently, to make it appear slightly different than level 11. It will also contain some new platforms and objects.",
 		"During this level, Claw must fight repainted and more difficult versions of the MerCats w/Tridents, Mercat Sirens, and Fish.",
 		"At the end of level 12, Claw must defeat King Aquatis, guardian to the exit of the Undersea Caves. King Aquatis is guarded by flesh-eating fish. These fish jump out of the water and swarm around Claw, making it difficult to attack Aquatis head-on. Aquatis can also attack Claw with his tentacles (which come out of the water). Once Aquatis has been defeated, Claw receives the 6th gem for the amulet of nine lives."
 	],
 	"13": [
-		"Level 13 - Tiger Island",
+		"*Level 13 - Tiger Island*",
 		"Level 13 is Tiger Island. Tiger Island is the last place that Claw journeys to, basically his goal throughout the game. Level 13 features completely new tiles, platforms, objects, etc.",
 		"During this level, Claw must fight repainted versions of the Red Tail Pirate from levels 7 and 8, repainted and more difficult versions of the Crazy Hook Pirate, and Cocount-Throwing Monkeys.",
 		"At the end of level 13, Claw must defeat Red Tail. Once Claw defeats Red Tail, Claw receives the 7th and 8th gems for the amulet."
 	],
 	"14": [
-		"Level 14 - The Temple",
+		"*Level 14 - The Temple*",
 		"Level 14 is The Temple. Level 14 will feature all new tiles, objects, etc.",
 		"During this level, Claw must fight members of the Royal Tiger Guard and Chameleons.",
 		"At the end of level 14, Claw must defeat Lord Omar, Guardian of the Temple. Once Lord Omar has been defeated, Claw receives the 9th gem for the amulet of nine lives, as well as the amulet."
