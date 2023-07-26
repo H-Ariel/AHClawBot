@@ -30,3 +30,19 @@ def get_boss_data(boss_name):
 	if boss_name in bosses_data.keys():
 		return '\n'.join(bosses_data[boss_name])
 	return 'invalid enemy'
+
+
+def get_enemy_sticker(enemy_name):
+	if enemy_name in enemies_data.keys():
+		if enemy_name == 'Town Guard':
+			return (open('data/images/town guard 1.png', 'rb'), open('data/images/town guard 2.png', 'rb'))
+		
+		elif enemy_name == 'Tiger Guard':
+			return (open('data/images/tiger guard.png', 'rb'), open('data/images/tiger guard white.png', 'rb'))
+		
+		return open(f'data/images/{enemy_name}.png', 'rb')
+	
+	elif enemy_name in bosses_data.keys():
+		return open(f'data/images/{enemy_name}.png', 'rb')
+	
+	return None

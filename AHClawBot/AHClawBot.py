@@ -1,10 +1,12 @@
 '''
 Bot about the awesome game Claw
 
+The data is based on Claw Design Doc.
+you can download it here: https://captainclaw.net/en/downloads.html
+
 Task List:
-- send enemies images
-- send bosses images
-- add info about CC
+- add info about CC and it's image
+- ignore lower-case
 '''
 
 import telebot
@@ -63,6 +65,13 @@ def enemy(message: telebot.types.Message):
 	enemy_name = ' '.join(splited_text[1:])
 	bot.send_message(message.chat.id, ccdata.get_enemy_data(enemy_name))
 
+	sticker = ccdata.get_enemy_sticker(enemy_name)
+	if isinstance(sticker, tuple):
+		for i in sticker:
+			bot.send_sticker(message.chat.id, sticker=i)
+	elif sticker is not None:
+		bot.send_sticker(message.chat.id, sticker=sticker)
+
 
 @bot.message_handler(commands=['bosses'])
 def bosses(message: telebot.types.Message):
@@ -74,6 +83,9 @@ def boss(message: telebot.types.Message):
 	splited_text =  message.text.split()
 	boss_name = ' '.join(splited_text[1:])
 	bot.send_message(message.chat.id, ccdata.get_boss_data(boss_name))
+	sticker = ccdata.get_enemy_sticker(boss_name)
+	if sticker is not None:
+		bot.send_sticker(message.chat.id, sticker=sticker)
 
 
 @bot.message_handler(commands=['help'])
@@ -86,9 +98,7 @@ def chatting(message: telebot.types.Message):
 	cmd = message.text.split()[0].lower()
 	if cmd == 'level': level(message)
 	elif cmd == 'enemy': enemy(message)
-	elif cmd == 'enemies': enemies(message)
 	elif cmd == 'boss': boss(message)
-	elif cmd == 'bosses': bosses(message)
 	else: bot.send_message(message.chat.id, 'unknown command')
 
 
